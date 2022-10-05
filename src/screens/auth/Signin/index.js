@@ -11,7 +11,7 @@ import { styles } from './styles';
  const Signin= () => {
   const[checked,setChecke]=useState(false);
   const onSignUp=()=>{
-     console.log("HELLO");
+     console.log("HELLO how are you");
   }
   return (
     <View style={styles.container}>
